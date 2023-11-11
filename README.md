@@ -9,6 +9,7 @@
   <p>This repo will include the implementation of object relational mapping (ORM) and the use of database migration files to maintain database schema. it uses RubyGems as a software package system, and Ruby on Rails framework
 </p>
 
+<img src='./blog_app_erd_v1_1.png'/>
 
 </div>
 
