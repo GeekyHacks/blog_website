@@ -9,6 +9,7 @@
   <p>This repo will include the implementation of object relational mapping (ORM) and the use of database migration files to maintain database schema. it uses RubyGems as a software package system, and Ruby on Rails framework
 </p>
 
+<img src='./blog_app_erd_v1_1.png'/>
 
 </div>
 
@@ -73,7 +74,7 @@ To get a local copy up and running, follow these steps:
 
 - Open your Terminal in your VSCode.
 - Navigate to the desired directory[folder] to which you want to clone the repository to
-- git clone you find in the code button https://github.com/GeekyHacks/blog_website_practice.git
+- git clone you find in the code button https://github.com/GeekyHacks/blog_website.git
 - Run `blunder i` to install the gemfiles to your end
 
 ### Prerequisites
@@ -93,13 +94,13 @@ To run and modify this project you need:
 
 Clone this repository to your desired folder:
 
-- git clone https://github.com/GeekyHacks/blog_website_practice.git
+- git clone https://github.com/GeekyHacks/blog_website.git
 
 Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/GeekyHacks/blog_website_practice.git
+  git clone https://github.com/GeekyHacks/blog_website.git
 
 ```
 
@@ -134,7 +135,7 @@ suggusted VSC extentions:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/GeekyHacks/blog_website_practice/issues).
+Feel free to check the [issues page](https://github.com/GeekyHacks/blog_website/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
