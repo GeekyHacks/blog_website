@@ -5,8 +5,8 @@ class User < ApplicationRecord
 
   # validations
   validates :name, presence: true, format: { without: /\d/, message: 'should not contain numbers' },
-                   length: { minimum: 3, maximum: 50 }, uniqueness: true
-  validates :photo, presence: true, uniqueness: true
+                   length: { minimum: 3, maximum: 50 }
+  validates :photo, presence: true
   validates :bio, presence: true, length: { minimum: 20, maximum: 145 }
   validates :postcounter, presence: true, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
 
