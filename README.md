@@ -55,6 +55,9 @@ This repo will include the implementation of object relational mapping (ORM) and
 
 - Create rails project linked to postgresql
 - Run the project on server
+- Manage database using models
+- Count each comment, like, and post for any user.
+- Show the most recent records for any table.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,7 +65,7 @@ This repo will include the implementation of object relational mapping (ORM) and
 
 </a>
 
-- Make a graphical user interface
+- Add Unit test for projects models
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
